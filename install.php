@@ -38,7 +38,7 @@
 		}
 
 		//创建伪静态
-		if( !file_exists(".htaccess") && $rewrite_create_htaccess_file ){
+		if( !file_exists(".htaccess") && true ){
 			$htaccess_file_content =
 				"### MarkNote RewriteRule start
 <IfModule mod_rewrite.c>

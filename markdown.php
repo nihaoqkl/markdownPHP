@@ -892,9 +892,9 @@
 			<div id="note-md-show" style="position: absolute;width:49%; height:100%; font-size:16px; overflow:auto;padding:20px 40px;"></div>
 			<div id="note-md-move" style="height:100%;width:5px;background-color:#ccc;position: absolute;cursor: ew-resize;"></div>
 			<!-- <textarea id="note-md-edit" style="position: absolute;overflow:auto;width:48%; height:100%; float:right; background-color:#fcfcfc; padding:5px; font-size:14px;" spellcheck="false" oninput="this.editor.update();note_change();" autofocus="autofocus" name="the_note" ></textarea> -->
-			<div id="note-md-edit" style="position: absolute;overflow:auto;width:48%; height:100%; float:right; background-color:#fcfcfc;font-size:14px;">#MarkDown格式记事本
-				- - -
-				在**右侧**编辑记事本，会在**左侧**显示效果。
+			<div id="note-md-edit" style="position: absolute;overflow:auto;width:48%; height:100%; float:right; background-color:#fcfcfc;font-size:14px;">#MarkDown格式记事
+- - -
+在**右侧**编辑记事本，会在**左侧**显示效果。
 			</div>
 		</div>
 	</div>
